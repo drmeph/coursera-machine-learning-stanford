@@ -1,4 +1,4 @@
-# [Machine Learning Course from Stanford University](https://www.coursera.org/learn/machine-learning/home/welcome)
+# [Machine Learning Course from Stanford University on Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
 ## Machine Learning: Linear Regression
 Final Assignment of Week 2 of [the Machine Learning course of University of Stanford](https://www.coursera.org/learn/machine-learning/home/welcome)
 
