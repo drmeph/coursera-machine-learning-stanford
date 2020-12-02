@@ -3,4 +3,7 @@
 Final Assignment of Week 2 - [Instructions PDF](week-2/ex1.pdf)
 
 ## Machine Learning: Logistic Regression
-Final Assignment of Week 3 - [Instructions PDF](week-3/ex2.pdf) 
+Final Assignment of Week 3 - [Instructions PDF](week-3/ex2.pdf)
+
+## Machine Learning: Neural Network
+Final Assignment of Week 4 - [Instructions PDF](week-4/ex3.pdf)
