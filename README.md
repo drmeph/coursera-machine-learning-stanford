@@ -19,3 +19,6 @@ Final Assignment for Week 7 - [Instructions PDF](week-7/ex6.pdf)
 
 ## Machine Learning: K-means Clustering and Principal Component Analysis
 Final Assignment for Week 8 - [Instructions PDF](week-8/ex7.pdf)
+
+## Machine Learning: Anomaly Detection and Recommender Systems
+Final Assignment for Week 9 - [Instructions PDF](week-9/ex8.pdf)
